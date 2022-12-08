@@ -1,6 +1,6 @@
 # Example of using Docker multi-stage build
 
-Building and image
+Building an image
 ```
 docker build . -t c_hello_world
 docker images
